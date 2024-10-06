@@ -7,7 +7,7 @@ public class CannonBallLauncher : MonoBehaviour
     [SerializeField]
     private GameObject _cannonballPrefab;
     [SerializeField]
-    private float _speed = 300;
+    private float _speed = 200;
 
     private void Update()
     {
